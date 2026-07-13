@@ -1,5 +1,5 @@
 //移除元素，慢指针：当前存入的位置，快指针：找数字2，是2->舍弃快指针位置的数据，不是2->快指针的数据存入慢指针位置
-package demo;
+package array;
 
 public class Test6 {
     public static void main(String[] args) {

@@ -1,5 +1,5 @@
 //去除重复元素（快慢指针）
-package demo;
+package array;
 
 public class Test5 {
     public static void main(String[] args) {

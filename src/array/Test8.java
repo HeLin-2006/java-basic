@@ -1,5 +1,5 @@
 //二路归并找中位数
-package demo;
+package array;
 
 public class Test8 {
     public static void main(String[] args) {
